@@ -1,0 +1,6 @@
+1. echo "Hello from the command line."
+2. touch hello-world.txt
+3. mkdir my-new-folder
+4. rmdir my-non-existent-folder 2>/dev/null || echo "Whoops, cannot delete a folder that does not exist"
+5. cd ~/Desktop && cd ..
+6. which zsh
